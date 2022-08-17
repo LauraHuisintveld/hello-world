@@ -11,3 +11,4 @@ jobs:
           DATAVERSE_TOKEN: ${{secrets.DATAVERSE_TOKEN}}
           DATAVERSE_SERVER: https://demo.dataverse.nl
           DATAVERSE_DATASET_DOI: doi:10.80227/test-AIT3AU
+          PUBLISH: True
