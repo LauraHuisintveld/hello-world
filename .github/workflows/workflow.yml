@@ -10,5 +10,5 @@ jobs:
         with:
           DATAVERSE_TOKEN: ${{secrets.DATAVERSE_TOKEN}}
           DATAVERSE_SERVER: https://demo.archaeology.datastations.nl/
-          DATAVERSE_DATASET_DOI: doi:10.17026/SAR/QM8ITV
+          DATAVERSE_DATASET_DOI: doi:10.17026/SAR/RCMZLS
           DELETE: False
